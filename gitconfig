@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cedrick.martin@kedgebs.com
+	name = cedrick martin
